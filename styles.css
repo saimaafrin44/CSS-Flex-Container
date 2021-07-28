@@ -1,0 +1,60 @@
+.container {
+    background-color: black;
+    display: flex;
+} 
+body {
+    text-align: center;
+}
+.flex1 {
+    background-color: white;
+    min-height: 100px;
+    width: 100px;
+    border-color: black;
+    border-width: 1ch;
+}
+.flex2 {
+    background-color: black;
+    min-height: 200px;
+    width: 100px;
+    color: white;
+}
+.flex3 {
+    background-color: white;
+    min-height: 300px;
+    width: 100px;
+}
+.flex4 {
+    background-color: black;
+    min-height: 300px;
+    width: 100px;
+    color: white;
+}
+.flex5 {
+    background-color: white;
+    min-height: 100px;
+    width: 300px;
+    padding: 8%;
+    text-align: center;
+    color: black;
+    
+}
+.flex6 {
+    background-color: black;
+    min-height: 300px;
+    width: 100px;
+    color: white;
+}
+.flex7 {
+    background-color: white;
+    min-height: 300px;
+    width: 100px;
+}
+.flex8 {
+    background-color: black;
+    min-height: 100px;
+    width: 300px;
+    padding: 8%;
+    text-align: center;
+    color: white;
+}
+    
